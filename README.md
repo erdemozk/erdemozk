@@ -1,6 +1,6 @@
 ### Hello World! 👋 
 
-I am a nurse from Turkey but I am not just a nurse, I describe myself as a new generation nurse. I love to code with Python and React-Native. You can reach me on [datacamp](https://www.datacamp.com/profile/erdemozk).
+I am a nurse from Turkey but I am not just a nurse, I describe myself as a new generation nurse. I love to code with Python and React-Native.
 
 Portfolio site: [Portfolio](https://erdemozkok.com/)
 
@@ -19,8 +19,8 @@ Portfolio site: [Portfolio](https://erdemozkok.com/)
 
 **⛰ Looking forward to learn:** 
 
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="https://developer.apple.com/swift/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></a></code>
 </code>
 
 
