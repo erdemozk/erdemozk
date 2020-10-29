@@ -1,6 +1,6 @@
 ### Hello World! 👋 
 
-I am a nurse from Turkey but I am not just a nurse, I describe myself as a new generation nurse. I love to code with Python and React-Native.
+I am a nurse from Turkey but I am not just a nurse, I describe myself as a new generation nurse. I love to code with Python and React Native.
 
 Portfolio site: [Portfolio](https://erdemozkok.com/)
 
@@ -24,10 +24,6 @@ Portfolio site: [Portfolio](https://erdemozkok.com/)
 
 <code><a href="https://developer.apple.com/swift/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></a></code>
-</code>
-
-
-
 
 <a href="https://github.com/erdemozk">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdemozk&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
