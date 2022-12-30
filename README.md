@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erdemozk" alt="erdemozk" /></a> </p>
 
-- 🔭 I’m currently working on [Yesil Health](https://yesilhealth.com/)
+- 🔭 I’m currently working on [Akinon](https://akinon.com/)
 
 - 🌱 I’m currently learning **Swift**
 
